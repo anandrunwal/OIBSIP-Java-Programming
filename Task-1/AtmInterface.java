@@ -15,7 +15,7 @@ import java.util.Scanner;
         }
 
         public static void login(String username, int pin) {
-            if (username.contains("vitthal") && pin == 4230) {
+            if (username.contains("anand") && pin == 3333) {
                 list.add("Logged in");
                 ask(5000);
             } else {
